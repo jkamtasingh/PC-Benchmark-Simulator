@@ -67,5 +67,9 @@ To run the project, follow these steps:
 3. Compile the code.
 4. Run the program.
 
-
-
+# Authors
+**Joshua Kamtasingh** - OOP class design, recursive functions, random number generation.
+- GitHub: [jkamtasingh] (https://github.com/jkamtasingh)
+  
+**Gurvishvash Baath** - stress test logic, menu navigation, sorting logic.
+- Email: gurvishvashbaath@gmail.com
